@@ -1,6 +1,3 @@
-Here's a comprehensive GitHub README.md for your Desktop Countdown application in both English and Chinese:
-
-```markdown
 # Desktop Countdown 桌面倒计时
 
 A customizable desktop countdown timer application built with PyQt5.  
@@ -117,21 +114,3 @@ MIT 许可证
 **Note**: The application icon (logo.ico) should be placed in the same directory as the script.  
 **注意**：应用图标(logo.ico)应放在与脚本相同的目录中。
 ```
-
-This README includes:
-
-1. Bilingual presentation (English/Chinese)
-2. Clear feature highlights
-3. Installation instructions
-4. Usage guide
-5. Settings explanation
-6. Build instructions
-7. Contribution guidelines
-8. License information
-
-You should also:
-1. Add a screenshot.png showing your application
-2. Create a logo.ico file for the application icon
-3. Set up GitHub Actions for automatic builds if you plan to release executables
-
-The markdown uses a clean format that will display well on GitHub and provides all necessary information for users in both English and Chinese.
