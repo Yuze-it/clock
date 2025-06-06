@@ -113,4 +113,7 @@ MIT 许可证
 
 **Note**: The application icon (logo.ico) should be placed in the same directory as the script.  
 **注意**：应用图标(logo.ico)应放在与脚本相同的目录中。
+
 ```
+Downloading directly from GitHub may not run properly. Please visit https://clock-yuze.netlify.app to view and download.
+直接在github下载可能无法直接运行，请在 https://clock-yuze.netlify.app 查看并下载
